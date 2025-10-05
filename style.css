@@ -585,7 +585,7 @@ a {
 }
 
 .services-banner {
-	background-image: url("images/banner/services-banner.jpg");
+    /* background-image removed as requested */
 }
 .gallery-banner {
 	background-image: url("images/banner/gallery-banner.jpg");
